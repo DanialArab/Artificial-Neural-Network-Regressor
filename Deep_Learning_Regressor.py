@@ -67,7 +67,7 @@ model.summary()
 
 # Step_6: Training the model 
 
-history = model.fit(X_train_scaled, y_train, validation_split=0.2, epochs =10)
+history = model.fit(X_train_scaled, y_train, validation_split=0.2, epochs =1000)
 
 # Step_7: Making some predictions
 
