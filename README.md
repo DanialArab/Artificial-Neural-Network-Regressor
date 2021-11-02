@@ -28,7 +28,13 @@ The following 7 wells' datasets were previously used by Tunkiel et al. (Tunkiel 
 
 In this project, the same datasets as used by Tunkiel et al. (Tunkiel et al., 2021) were used to build the deep learning model and finally, the results are compared with the results of the mentioned traditional ML algorithms published by Tunkiel et al. (Tunkiel et al., 2021).
 
+# Understanding the data
 
+Mud density was 1.21 ± 0.01 gr/cm3
+Average Hookload was 92.71 ± 4.40 kkgf
+
+
+One of the metrics suggested to evaluate the DR prediction model is Mean Absolute Error (MAE). 
 
 ![final](https://user-images.githubusercontent.com/54812742/139790980-e58aee5b-5ae5-4df5-b88f-f8efeda0a4ca.PNG)
 
