@@ -30,13 +30,13 @@ In this project, the same datasets as used by Tunkiel et al. (Tunkiel et al., 20
 
 # Understanding the data
 
-The dataset
+Various attributes of the first well, Norway-NA-15_$47$_9-F-9 A depth, were presented in Fig. 
 
 ![final_2data](https://user-images.githubusercontent.com/54812742/139796959-bdff912e-c9ab-484c-98b1-7a12eba2b201.PNG)
 
-Mud density was 1.21 ± 0.01 gr/cm3
-Average Hookload was 92.71 ± 4.40 kkgf
+The Mud density and average hookload for this well were reported as 1.21 ± 0.01 gr/cm3 and 92.71 ± 4.40 kkgf, respectively. 
 
+# Deep learning (Neural Network) Regressor to Predict DR
 
 One of the metrics suggested to evaluate the DR prediction model is Mean Absolute Error (MAE). 
 
