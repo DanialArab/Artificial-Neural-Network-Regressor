@@ -42,4 +42,4 @@ One of the metrics suggested to evaluate the DR prediction model is Mean Absolut
 
 ![final](https://user-images.githubusercontent.com/54812742/139790980-e58aee5b-5ae5-4df5-b88f-f8efeda0a4ca.PNG)
 
-Fig. 1: Distribution of different attributes for well "Norway-NA-15_$47$_9-F-9 A depth"
+Fig. 2: Distribution of different attributes for well "Norway-NA-15_$47$_9-F-9 A depth"
