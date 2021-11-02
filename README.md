@@ -7,6 +7,7 @@
 2. [Understanding the Data](#2)
 3. [Traditional Machine Learning Algorithms to Predict ROP](#3)
 4. [Deep learning (Neural Network) Regressor to Predict ROP](#4)
+5. [References](#5)
 
 
 <a name="1"></a>
@@ -81,3 +82,12 @@ The predicted rate of penetration (ROP) values were compared with the ground tru
 Fig. 4: Comparison of the predicted ROP from Neural Network Model with the ground truth values
 
 The MAE obtained through deep learning model is **1.8**, which is much less than the value obtained through the best traditional machine learning algorithm with 10.73 as MAE (i.e., Gradient Boosting (Fig. 2)). 
+
+<a name="5"></a>
+# References 
+
+Equinor (2018). Volve field data (CC BY-NC-SA 4.0). https://www.equinor.com/en/news/14jun2018-disclosing-volve-data.html.
+
+Tunkiel, A.,  Sui, D., Wiktorski, T. (2021). Reference dataset for rate of penetration benchmarking, Journal of Petroleum Science and Engineering, 196, 108069. 
+
+Tunkiel, A.T., Wiktorski, T., Sui, D. (2020). Drilling dataset exploration, processing and interpretation using Volve field data. In: Submitted to Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering - OMAE.
