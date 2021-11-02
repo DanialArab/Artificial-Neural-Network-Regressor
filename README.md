@@ -81,7 +81,7 @@ The predicted rate of penetration (ROP) values were compared with the ground tru
 
 Fig. 4: Comparison of the predicted ROP from Neural Network Model with the ground truth values
 
-The MAE obtained through deep learning model is **1.8**, which is much less than the value obtained through the best traditional machine learning algorithm with 10.73 as MAE (i.e., Gradient Boosting (Fig. 2)). 
+The MAE obtained through deep learning model is **1.8**, which is much less than the value obtained through the best traditional machine learning algorithm with 10.73 as MAE (i.e., Gradient Boosting (Fig. 2)). This is a remarkable improvement verifying the fact that the deep learning algorithms can significantly surpass the traditional machine learning algorithms when there is a huge amount of data available, which is the case when it comes to drilling datasets. 
 
 <a name="5"></a>
 # References 
