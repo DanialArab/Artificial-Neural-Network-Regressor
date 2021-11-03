@@ -73,7 +73,7 @@ A neural network with two dense layers of **relu** as activation function was tr
 
 ![final](https://user-images.githubusercontent.com/54812742/139790980-e58aee5b-5ae5-4df5-b88f-f8efeda0a4ca.PNG)
 
-Fig. 3: (a) Accuracy and (b) loss functions for the training and validation datasets vs. number of epochs
+Fig. 3: (a) Accuracy and (b) loss for the training and validation datasets vs. number of epochs
 
 The predicted rate of penetration (ROP) values were compared with the ground truth ones in Fig. 4.
 
